@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/little-lemon-web-app/static/css/main.2a0fc23d.css",
+    "main.js": "/little-lemon-web-app/static/js/main.0b860549.js",
+    "static/js/787.c0b67421.chunk.js": "/little-lemon-web-app/static/js/787.c0b67421.chunk.js",
+    "static/media/fish.jpg": "/little-lemon-web-app/static/media/fish.7f0e67dc9fb256937fa8.jpg",
+    "static/media/restauranfood.jpg": "/little-lemon-web-app/static/media/restauranfood.0991b576175a1cd8526d.jpg",
+    "static/media/restaurant.jpg": "/little-lemon-web-app/static/media/restaurant.5a969d64330779959c49.jpg",
+    "static/media/chef.jpg": "/little-lemon-web-app/static/media/chef.ec0f42cc3994757b1948.jpg",
+    "static/media/chefs.jpg": "/little-lemon-web-app/static/media/chefs.79488a22c4b77122d36d.jpg",
+    "static/media/pizza.jpg": "/little-lemon-web-app/static/media/pizza.f77ec30cde5c3affc9e0.jpg",
+    "static/media/dessert.jpg": "/little-lemon-web-app/static/media/dessert.b78c74d809f0cfd3fc73.jpg",
+    "static/media/footer-logo.png": "/little-lemon-web-app/static/media/footer-logo.d09eb2af6c5a2225eedf.png",
+    "static/media/image1.jpg": "/little-lemon-web-app/static/media/image1.02a94afeb712e802bef4.jpg",
+    "static/media/image3.jpg": "/little-lemon-web-app/static/media/image3.f4d24837ba6a8e2d03ec.jpg",
+    "static/media/image4.jpg": "/little-lemon-web-app/static/media/image4.346e00fd043f0fc4edf4.jpg",
+    "static/media/Logo.svg": "/little-lemon-web-app/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/image2.jpg": "/little-lemon-web-app/static/media/image2.c5e1a120de66bef3cd3a.jpg",
+    "static/media/Verified.svg": "/little-lemon-web-app/static/media/Verified.3621587fe6bb87b65eb729ca2a4eaebb.svg",
+    "static/media/scooter.svg": "/little-lemon-web-app/static/media/scooter.d8be90eb40ee2534fdfa224a9b068175.svg",
+    "index.html": "/little-lemon-web-app/index.html",
+    "static/media/star.svg": "/little-lemon-web-app/static/media/star.b708fb1d528764eeeea8b79159e4005e.svg",
+    "main.2a0fc23d.css.map": "/little-lemon-web-app/static/css/main.2a0fc23d.css.map",
+    "main.0b860549.js.map": "/little-lemon-web-app/static/js/main.0b860549.js.map",
+    "787.c0b67421.chunk.js.map": "/little-lemon-web-app/static/js/787.c0b67421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0fc23d.css",
+    "static/js/main.0b860549.js"
+  ]
+}
